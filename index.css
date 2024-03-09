@@ -1,0 +1,15 @@
+#root{
+  --primary:black;
+  --secondary:white;
+  --light:rgba(162, 4, 4, 0.018);
+  
+}
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Fira Sans',sans-serif;
+}
+body{
+  background-color:black;
+}
